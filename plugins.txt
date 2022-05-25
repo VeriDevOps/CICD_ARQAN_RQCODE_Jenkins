@@ -1,0 +1,17 @@
+Credentials Binding 1.27.1
+Credentials Plugin 1087.1089.v2f1b_9a_b_040e4
+Docker API Plugin 3.2.13-37.vf3411c9828b9
+Docker Commons Plugin 1.19
+Docker Pipeline 1.28
+Docker plugin 1.2.9
+Generic Webhook Trigger 1.83
+Git 4.11.0
+Git client plugin 3.11.0
+GitHub API Plugin 1.303-400.v35c2d8258028
+HTTP Request Plugin 1.15
+Pipeline: Basic Steps 948.v2c72a_091b_b_68
+Pipeline: Declarative 2.2075.vce74e77b_ce40
+Pipeline: Declarative Extension Points API 2.2075.vce74e77b_ce40
+Pipeline: SCM Step 400.v6b_89a_1317c9a_
+Pipeline: Stage Step 293.v200037eefcd5
+Plain Credentials Plugin 1.8
