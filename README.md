@@ -2,7 +2,7 @@
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
-[![GitHub license](https://shields.io/badge/license-Apache%202-green?style=for-the-badge)](https://github.com/VeriDevOps/project-example/blob/main/LICENSE)
+[![GitHub license](https://shields.io/badge/license-Apache%202-green?style=for-the-badge)](https://github.com/VeriDevOps/Jenkins-security-requirements-analysis/tree/main/LICENSE)
 
 This is a Jenkins Declarative pipeline written on Groovy to assist requirements tagging and STIGs and tests suggestions. Requirements are managed in GitHub Issues. When a requirement is opened, the pipeline detects whether it is related to security and sets a tag ("security"/"non-security"). If a requirement is related to sequrity, next steps of pipeline manage [STIGs](https://www.stigviewer.com/stigs) and [RQCODE tests](https://github.com/VeriDevOps/RQCODE) suggestion.
 
