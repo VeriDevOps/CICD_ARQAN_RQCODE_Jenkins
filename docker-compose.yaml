@@ -4,12 +4,12 @@ services:
     container_name: webhookrelay
     image: webhookrelay/webhookrelayd:latest
     restart: always
-    environment:
+    # environment:
       # Authentication
-      - RELAY_KEY=c9b92031-2df1-4c2e-be3c-0a1b99ea3205
-      - RELAY_SECRET=uvp68sKCYFzY
+      # - RELAY_KEY=<HERE IS YOUR RELAY KEY>
+      # - RELAY_SECRET=<HERE IS YOUR RELAY SECRET>
       # buckets list to subscribe
-      - BUCKETS=arqan-jenkins
+      # - BUCKETS=<HERE IS YOUR RELAY BUCKET>
 
   jenkins:
     container_name: jenkins
