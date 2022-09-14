@@ -62,9 +62,6 @@ We appreciate feedback and contribution to this repo! Before you get started, pl
 ## Support + Feedback
 
 - Use [Issues](https://github.com/VeriDevOps/project-example/issues) for code-level support, usage, questions, specific cases
-- Feel free to reach [o.chernuhina@innopolis.university](o.chernuhina@innopolis.university)
+- Feel free to reach us
 
 
-## License
-
-The project is developed under [MIT LICENSE](LICENSE.md). 
